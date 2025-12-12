@@ -7,11 +7,11 @@
 [cols=2*,options="header"]
 |===
 | Quellattribut | Zielattribut
-| `Grundwasserleiter_Lockergestein.Geometrie+`
-| `+Geometrie_Flaeche+`
+| `Grundwasserleiter_Lockergestein.Geometrie`
+| `Geometrie_Flaeche`
 | leer (es wird keine Liniengeometrie erfasst)
 | `+Geometrie_Linie+`
-| `Grundwasserleiter_Lockergestein.OID+`
+| `Grundwasserleiter_Lockergestein.OID`
 | `+Identifikator+`
 | `+Gewissheitsgrad.Code+` +
 hergeleitet über `+Grundwasserleiter_Lockergestein.rGewissheitsgrad+`
@@ -38,11 +38,11 @@ hergeleitet über `+Grundwasserleiter_Lockergestein.rLage+`
 [cols=2*,options="header"]
 |===
 | Quellattribut | Zielattribut
-| `Grundwasserleiter_Festgestein.Geometrie+`
+| `Grundwasserleiter_Festgestein.Geometrie`
 | `+Geometrie_Flaeche+`
 | leer (es wird keine Liniengeometrie erfasst)
 | `+Geometrie_Linie+`
-| `Grundwasserleiter_Festgestein.OID+`
+| `Grundwasserleiter_Festgestein.OID`
 | `+Identifikator+`
 | `+Gewissheitsgrad.Code+` +
 hergeleitet über `+Grundwasserleiter_Festgestein.rGewissheitsgrad+`
@@ -101,5 +101,6 @@ Zu dieser Klasse werden kantonal keine Daten geführt. Sie bleib daher leer.
 ifdef::backend-pdf[]
 <<<
 endif::[]
+
 
 
