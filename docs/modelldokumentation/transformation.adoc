@@ -16,8 +16,10 @@
 | `+Gewissheitsgrad.Code+` +
 hergeleitet über `+Grundwasserleiter_Lockergestein.rGewissheitsgrad+`
 | `+Status+`
-| [todo: Abbildung der Werte ergänzen] `+Ueberlagerung.Code+` +
-hergeleitet über `+Grundwasserleiter_Lockergestein.rUeberlagerung+`
+| `+Ueberlagerung.Code+` +
+hergeleitet über `+Grundwasserleiter_Lockergestein.rUeberlagerung+` +
+
+Achtung Sonderfall: Der Wert `+einstoeckig+` wird überführt in `+primaeres_erstes+`
 | `+Ueberlagerung+`
 | `+Druckverhaeltnis.Code+` +
 hergeleitet über `+Grundwasserleiter_Lockergestein.rDruckverhaeltnis+`
@@ -45,8 +47,10 @@ hergeleitet über `+Grundwasserleiter_Lockergestein.rLage+`
 | `+Gewissheitsgrad.Code+` +
 hergeleitet über `+Grundwasserleiter_Festgestein.rGewissheitsgrad+`
 | `+Status+`
-| [todo: Abbildung der Werte ergänzen] `+Ueberlagerung.Code+` +
-hergeleitet über `+Grundwasserleiter_Festgestein.rUeberlagerung+`
+| `+Ueberlagerung.Code+` +
+hergeleitet über `+Grundwasserleiter_Festgestein.rUeberlagerung+` +
+
+Achtung Sonderfall: Der Wert `+einstoeckig+` wird überführt in `+primaeres_erstes+`
 | `+Ueberlagerung+`
 | `+Druckverhaeltnis.Code+` +
 hergeleitet über `+Grundwasserleiter_Festgestein.rDruckverhaeltnis+`
@@ -97,4 +101,5 @@ Zu dieser Klasse werden kantonal keine Daten geführt. Sie bleib daher leer.
 ifdef::backend-pdf[]
 <<<
 endif::[]
+
 
