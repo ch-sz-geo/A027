@@ -237,10 +237,10 @@ m| istTieferesStockwerk
 | Die zuständige Stelle führt Grundwasserobjkete, welche als "tieferes Grundwasserstockwerkes" ausgewiesen werden. Diese lassen sich nicht über die Angaben von "Überlagerung" ausdrücken, weshalb dieses zusätzliche Attribut eingefügt wurde.
 | ja
 | öffentlich
-m| Bemerkung (todo: öffentlich?)
-| öffentliche Bemerkung zum Objekt
+m| Bemerkung
+| Eine Bemerkung zum Objekt
 | Das ist eine öffentliche Bemerkung
-| öffentlich
+| +++<span style="color:red;">intern</span>+++
 4+| *Geometrie*
 m| Geometrie
 | Geometrie des Objektes
@@ -303,10 +303,10 @@ m| istTieferesStockwerk
 | Die zuständige Stelle führt Grundwasserobjkete, welche als "tieferes Grundwasserstockwerkes" ausgewiesen werden. Diese lassen sich nicht über die Angaben von "Überlagerung" ausdrücken, weshalb dieses zusätzliche Attribut eingefügt wurde.
 | ja
 | öffentlich
-m| Bemerkung (todo: öffentlich?)
-| öffentliche Bemerkung zum Objekt
+m| Bemerkung
+| Eine Bemerkung zum Objekt
 | Das ist eine öffentliche Bemerkung
-| öffentlich
+| +++<span style="color:red;">intern</span>+++
 4+| *Geometrie*
 m| Geometrie
 | Geometrie des Objektes
@@ -373,10 +373,10 @@ m| Kote
 | Höhenwert der Isohypse in Meter
 | 354.5
 | öffentlich
-m| Bemerkung (todo: öffentlich?)
-| öffentliche Bemerkung zum Objekt
+m| Bemerkung
+| Eine Bemerkung zum Objekt
 | Das ist eine öffentliche Bemerkung
-| öffentlich
+| +++<span style="color:red;">intern</span>+++
 4+| *Geometrie*
 m| Geometrie
 | Geometrie des Objektes als gerichtete Linie
@@ -419,10 +419,10 @@ m| geaendertAm
 | Datum und Zeit, an dem der Datensatz zuletzt geändert wurde; wird durch das System gesetzt
 | 2024-07-30T08:07:57
 | öffentlich
-m| Bemerkung (todo: öffentlich?)
-| öffentliche Bemerkung zum Objekt
+m| Bemerkung
+| Eine Bemerkung zum Objekt
 | Das ist eine öffentliche Bemerkung
-| öffentlich
+| +++<span style="color:red;">intern</span>+++
 4+| *Geometrie*
 m| Geometrie
 | Geometrie des Objektes als gerichtete Linie
@@ -456,10 +456,10 @@ m| geaendertAm
 | Datum und Zeit, an dem der Datensatz zuletzt geändert wurde; wird durch das System gesetzt
 | 2024-07-30T08:07:57
 | öffentlich
-m| Bemerkung (todo: öffentlich?)
-| öffentliche Bemerkung zum Objekt
+m| Bemerkung
+| Eine Bemerkung zum Objekt
 | Das ist eine öffentliche Bemerkung
-| öffentlich
+| +++<span style="color:red;">intern</span>+++
 4+| *Geometrie*
 m| Geometrie
 | Geometrie des Objektes als gerichtete Linie
@@ -502,10 +502,10 @@ m| Verweildauer
 | Zeit in Tagen, in welcher das Wasser im Untergrund verweilt.
 | 15.5
 | öffentlich
-m| Bemerkung (todo: öffentlich?)
-| öffentliche Bemerkung zum Objekt
+m| Bemerkung
+| Eine Bemerkung zum Objekt
 | Das ist eine öffentliche Bemerkung
-| öffentlich
+| +++<span style="color:red;">intern</span>+++
 4+| *Geometrie*
 m| Geometrie
 | Geometrie des Objektes als gerichtete Linie
@@ -539,10 +539,10 @@ m| geaendertAm
 | Datum und Zeit, an dem der Datensatz zuletzt geändert wurde; wird durch das System gesetzt
 | 2024-07-30T08:07:57
 | öffentlich
-m| Bemerkung (todo: öffentlich?)
-| öffentliche Bemerkung zum Objekt
+m| Bemerkung
+| Eine Bemerkung zum Objekt
 | Das ist eine öffentliche Bemerkung
-| öffentlich
+| +++<span style="color:red;">intern</span>+++
 4+| *Geometrie*
 m| Geometrie
 | Geometrie des Objektes als Fläche
