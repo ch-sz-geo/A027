@@ -4,7 +4,9 @@ Dieses Dokument beschreibt den Geobasisdatensatz
  
 * *__Grundwasservorkommen (A027)__.*
 
-__<weitere Beschreibungen>__
+Es dokumentiert und umschreibt zudem die kantonalen Erweiterungen zum MGDM ID 139.1 Grundwasservorkommen des BAFU.
+
+Das Geodatenmodell bildet die Grundlage für die Beschreibung der in mehreren Untersuchungen erhobenen, bekannten kantonalen Grundwasservorkommen. Es setzt sich aus dem obligatorischen Teil des MGDM ID 139.1 Grundwasservorkommen und den kantonalen Erweiterungen zusammen. So werden nebst der Grundwasservorkommen im Lockergestein, deren Isohypsen, undurchlässige Deckschichten und Quellhorizonte auch die kantonal Eigenheiten in Form der Klassen Vorfluter und Infiltrant, Grundwasservorkommen im Festgestein sowie Gebiete mit geringer Durchlässigkeit oder reduzierenden Grundwasserverhältnissen abgebildet.
 
 === rechtliche Grundlagen
 Seit dem 1. Juli 2008 ist das Bundesgesetz über Geoinformation (GeoIG, SR 510.62) <<allgemeines.adoc#doc-01,[1]>> in Kraft. Am 1. Juli 2012 erfolgte die vollständige Inkraftsetzung des kantonalen Geoinformationsgesetzes (kGeoiG, SRSZ 214.110) <<allgemeines.adoc#doc-03,[3]>>. Es hat zum Ziel, verbindliche Vorgaben für die Erfassung, Modellierung und den Austausch von Geodaten festzulegen.
