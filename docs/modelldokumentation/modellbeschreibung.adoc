@@ -1,6 +1,8 @@
 == Modellbeschreibung
 
-<Beschreibung einfügen>
+Dieses Datenmodell dokumentiert und umschreibt die kantonalen Erweiterungen zum MGDM ID 139.1 Grundwasservorkommen des BAFU.
+
+Das Geodatenmodell bildet die Grundlage für die Beschreibung der in mehreren Untersuchungen erhobenen, bekannten kantonalen Grundwasservorkommen. Es setzt sich aus dem obligatorischen Teil des MGDM ID 139.1 Grundwasservorkommen und den kantonalen Erweiterungen zusammen. So werden nebst der Grundwasservorkommen im Lockergestein, deren Isohypsen, undurchlässige Deckschichten und Quellhorizonte auch die kantonal Eigenheiten in Form der Klassen Vorfluter und Infiltrant, Grundwasservorkommen im Festgestein sowie Gebiete mit geringer Durchlässigkeit oder reduzierenden Grundwasserverhältnissen abgebildet. 
 
 ifdef::backend-pdf[]
 <<<
