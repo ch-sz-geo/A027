@@ -466,6 +466,10 @@ m| Geometrie
 | (ohne Beispiel)
 | öffentlich
 4+| *Beziehungsattribute*
+m| rGrundwasserstand
+| Fremdschlüssel zur Klasse `+Grundwasserstand+` (Stammdaten)
+| e0807260-956b-40a2-871a-e32c51ebf192
+| öffentlich
 m| rGewissheitsgrad
 | Fremdschlüssel zur Klasse `+Gewissheitsgrad+` (Stammdaten)
 | e0807260-956b-40a2-871a-e32c51ebf192
