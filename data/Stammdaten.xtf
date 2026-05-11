@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ili:transfer
+  xmlns="http://www.interlis.ch/xtf/2.4/SZ_Grundwasservorkommen_V1_1"
+  xmlns:ili="http://www.interlis.ch/xtf/2.4/INTERLIS"
+  xmlns:geom="http://www.interlis.ch/geometry/1.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:Units="http://www.interlis.ch/xtf/2.4/Units">
+  <ili:headersection>
+    <ili:models>
+      <ili:model>SZ_Grundwasservorkommen_V1_1</ili:model>
+    </ili:models>
+    <ili:sender>AGI SZ</ili:sender>
+  </ili:headersection>
+  <ili:datasection>
+    <Stammdaten ili:bid="ch.sz.a027.stammdaten.2026-04-16">
+      <Druckniveau ili:tid="1c629673-9aed-4c32-9277-d382d7dc3d8b"><Name>frei</Name><Code>frei</Code><SortierNr>1</SortierNr><Bemerkung></Bemerkung></Druckniveau>
+      <Druckniveau ili:tid="1c24f0d5-27f9-463f-902c-b700213dbb64"><Name>gespannt</Name><Code>gespannt</Code><SortierNr>2</SortierNr><Bemerkung></Bemerkung></Druckniveau>
+      <Druckniveau ili:tid="0ee06555-d03f-4b94-98f1-b01c21a22921"><Name>artesisch</Name><Code>artesisch</Code><SortierNr>3</SortierNr><Bemerkung></Bemerkung></Druckniveau>
+      <Druckniveau ili:tid="0bc798d8-cb49-47d3-b8d9-43bd762ac18a"><Name>unbestimmt</Name><Code>unbestimmt</Code><SortierNr>9</SortierNr><Bemerkung></Bemerkung></Druckniveau>
+      <Druckverhaeltnis ili:tid="a7fc9e00-7b86-4f7a-b688-3a2fbd642e29"><Name>frei</Name><Code>frei</Code><SortierNr>1</SortierNr><Bemerkung></Bemerkung></Druckverhaeltnis>
+      <Druckverhaeltnis ili:tid="a36cfbae-51a6-4faf-a6ff-5b6ed9eb3553"><Name>gespannt</Name><Code>gespannt</Code><SortierNr>2</SortierNr><Bemerkung></Bemerkung></Druckverhaeltnis>
+      <Druckverhaeltnis ili:tid="b3ccca9d-208a-4c92-b5d1-20123bfd4ca8"><Name>artesisch</Name><Code>artesisch</Code><SortierNr>3</SortierNr><Bemerkung></Bemerkung></Druckverhaeltnis>
+      <Druckverhaeltnis ili:tid="b551a354-4b5b-4950-9dd6-79751a07ec86"><Name>teilweise gespannt</Name><Code>teilweise_gespannt</Code><SortierNr>4</SortierNr><Bemerkung></Bemerkung></Druckverhaeltnis>
+      <Druckverhaeltnis ili:tid="0c5c7859-eab0-4f31-898b-2a4061ac024a"><Name>unbestimmt</Name><Code>unbestimmt</Code><SortierNr>9</SortierNr><Bemerkung></Bemerkung></Druckverhaeltnis>
+      <Erfassung ili:tid="5d9fb026-ef34-4e86-afda-8a7fec074516"><Name>Ausstreichen</Name><Code>Ausstreichen</Code><SortierNr>1</SortierNr><Bemerkung>Begrenzung des Grundwasserleiters an der Terrainoberfläche</Bemerkung></Erfassung>
+      <Erfassung ili:tid="01a6a8f6-c600-4b9d-bd88-89cb6ee9988e"><Name>Geometrie Untergrund</Name><Code>Geometrie_Untergrund</Code><SortierNr>2</SortierNr><Bemerkung>dreidimensionale Ausdehnung des Grundwasserleiters projiziert an die Oberfläche</Bemerkung></Erfassung>
+      <Erfassung ili:tid="03d3b9b3-e412-40d2-8307-438ddc37b40f"><Name>Einzugsgebiet</Name><Code>Einzugsgebiet</Code><SortierNr>3</SortierNr><Bemerkung>hydrogeologisches Einzugsgebiet</Bemerkung></Erfassung>
+      <Erfassung ili:tid="edfeb39a-4249-4d3d-b900-785631f2a493"><Name>Wasservorkommen</Name><Code>Wasservorkommen</Code><SortierNr>4</SortierNr><Bemerkung>dreidimensionale Ausdehnung des mit Wasser gesättigten Bereichs des Grundwasserleiters projiziert an die Oberfläche</Bemerkung></Erfassung>
+      <Erfassung ili:tid="cec3af6f-8478-455c-9bc2-a7e34345e4b4"><Name>unbestimmt</Name><Code>unbestimmt</Code><SortierNr>9</SortierNr><Bemerkung></Bemerkung></Erfassung>
+      <Ergiebigkeit ili:tid="ac8cd554-186d-4c25-805b-5759746509a5"><Name>ergiebig</Name><Code>ergiebig</Code><SortierNr>1</SortierNr><Bemerkung></Bemerkung></Ergiebigkeit>
+      <Ergiebigkeit ili:tid="30c3755b-4387-4b5c-8e90-07eb295f9b2f"><Name>weniger ergiebig</Name><Code>weniger_ergiebig</Code><SortierNr>2</SortierNr><Bemerkung></Bemerkung></Ergiebigkeit>
+      <Ergiebigkeit ili:tid="2b6fc97f-3f11-4d2a-9991-dcb197f867cc"><Name>nicht oder lokal kaum ergiebig</Name><Code>nicht_oder_lokal_kaum_ergiebig</Code><SortierNr>3</SortierNr><Bemerkung></Bemerkung></Ergiebigkeit>
+      <Ergiebigkeit ili:tid="fdf4a307-9bab-4aab-bccf-246ed1a11b92"><Name>unbestimmt</Name><Code>unbestimmt</Code><SortierNr>9</SortierNr><Bemerkung></Bemerkung></Ergiebigkeit>
+      <Flaechentyp ili:tid="92fdccb5-1db6-426f-ba8f-185a61b8d42e"><Name>Gebiet geringer Durchlässigkeit</Name><Code>Gebiet_geringer_Durchlaessigkeit</Code><SortierNr>10</SortierNr><Bemerkung></Bemerkung></Flaechentyp>
+      <Flaechentyp ili:tid="136da256-b791-4fb7-8872-144eb55d22f6"><Name>gering durchlässige Deckschicht</Name><Code>Deckschicht_gering_durchlaessig</Code><SortierNr>20</SortierNr><Bemerkung></Bemerkung></Flaechentyp>
+      <Flaechentyp ili:tid="393b5a55-30f8-4289-9808-b10b81b63623"><Name>Bereich mit reduzierenden Grundwasserverhältnissen</Name><Code>Bereich_mit_reduzierenden_Grundwasserverhaeltnissen</Code><SortierNr>30</SortierNr><Bemerkung></Bemerkung></Flaechentyp>
+      <Gewissheitsgrad ili:tid="812093b6-a958-478f-b72e-c54b72713db9"><Name>nachgewiesen</Name><Code>nachgewiesen_bekannt</Code><SortierNr>1</SortierNr><Bemerkung></Bemerkung></Gewissheitsgrad>
+      <Gewissheitsgrad ili:tid="34a69cf8-8ea8-4be2-957e-5e544c9f32cc"><Name>vermutet</Name><Code>vermutet</Code><SortierNr>2</SortierNr><Bemerkung></Bemerkung></Gewissheitsgrad>
+      <Gewissheitsgrad ili:tid="1be26ca0-8659-4aed-a83c-8f8772ac5e05"><Name>unbestimmt</Name><Code>unbestimmt</Code><SortierNr>3</SortierNr><Bemerkung></Bemerkung></Gewissheitsgrad>
+      <Grundwasserstand ili:tid="aa5f0c10-7a3f-4b4b-847c-c3483c67e017"><Name>Niedrigstwasserstand</Name><Code>Niedrigstwasserstand</Code><SortierNr>1</SortierNr><Bemerkung>niedrigster je gemessener Grundwasserstand</Bemerkung></Grundwasserstand>
+      <Grundwasserstand ili:tid="f7559a42-62dd-4ee0-a336-37670718c01c"><Name>Niedrigwasserstand</Name><Code>Niedrigwasserstand</Code><SortierNr>2</SortierNr><Bemerkung></Bemerkung></Grundwasserstand>
+      <Grundwasserstand ili:tid="0c08d433-b916-47bf-ab1f-93884708c00d"><Name>Mittelwasserstand</Name><Code>Mittelwasserstand</Code><SortierNr>3</SortierNr><Bemerkung></Bemerkung></Grundwasserstand>
+      <Grundwasserstand ili:tid="ffa03284-359d-4943-8a34-d16934a372f6"><Name>Hochwasserstand</Name><Code>Hochwasserstand</Code><SortierNr>4</SortierNr><Bemerkung></Bemerkung></Grundwasserstand>
+      <Grundwasserstand ili:tid="d88126d6-7689-4ba0-92a1-c087086dc892"><Name>Hoechsthochwasserstand</Name><Code>Hoechsthochwasserstand</Code><SortierNr>5</SortierNr><Bemerkung>höchster je gemessener Grundwasserstand</Bemerkung></Grundwasserstand>
+      <Grundwasserstand ili:tid="a0b09aeb-692b-4c49-ae62-30961b90f887"><Name>unbestimmt</Name><Code>unbestimmt</Code><SortierNr>9</SortierNr><Bemerkung></Bemerkung></Grundwasserstand>
+      <Lage ili:tid="47d2f4f1-3b38-406b-a700-9d1697446476"><Name>Talsohle</Name><Code>Talsohle</Code><SortierNr>1</SortierNr><Bemerkung></Bemerkung></Lage>
+      <Lage ili:tid="eb991d73-6cce-4f2d-84ca-a0be0a8a058d"><Name>oberhalb Talsohle</Name><Code>oberhalb_Talsohle</Code><SortierNr>2</SortierNr><Bemerkung></Bemerkung></Lage>
+      <Lage ili:tid="3d344161-8094-430c-b569-cab4a9b350de"><Name>unbestimmt</Name><Code>unbestimmt</Code><SortierNr>9</SortierNr><Bemerkung></Bemerkung></Lage>
+      <Maechtigkeit_Festgestein ili:tid="0113d5f2-ad24-41cb-9894-96ed359124d6"><Name>gering</Name><Code>gering</Code><SortierNr>1</SortierNr><Bemerkung></Bemerkung></Maechtigkeit_Festgestein>
+      <Maechtigkeit_Festgestein ili:tid="96661be7-5467-49e4-87fa-f875d97dc78f"><Name>mittel</Name><Code>mittel</Code><SortierNr>2</SortierNr><Bemerkung></Bemerkung></Maechtigkeit_Festgestein>
+      <Maechtigkeit_Festgestein ili:tid="2ac6bb0b-4869-4cae-b89a-774e81777470"><Name>gross</Name><Code>gross</Code><SortierNr>3</SortierNr><Bemerkung></Bemerkung></Maechtigkeit_Festgestein>
+      <Maechtigkeit_Festgestein ili:tid="0892033b-3d39-4bdf-a767-2e78ca76b3e6"><Name>unbestimmt</Name><Code>unbestimmt</Code><SortierNr>9</SortierNr><Bemerkung></Bemerkung></Maechtigkeit_Festgestein>
+      <Maechtigkeit_Lockergestein ili:tid="98907140-a15a-4528-b8f6-8dbbd9572355"><Name>gering</Name><Code>gering</Code><SortierNr>1</SortierNr><Bemerkung></Bemerkung></Maechtigkeit_Lockergestein>
+      <Maechtigkeit_Lockergestein ili:tid="f6be6a40-a598-4ae0-9803-271a66d17a99"><Name>gering (0-4 m)</Name><Code>gering_0_bis_5</Code><SortierNr>2</SortierNr><Bemerkung></Bemerkung></Maechtigkeit_Lockergestein>
+      <Maechtigkeit_Lockergestein ili:tid="519681f8-1943-415a-a790-cc689cca6d85"><Name>gering (2-4 m)</Name><Code>gering_2_bis_5</Code><SortierNr>3</SortierNr><Bemerkung></Bemerkung></Maechtigkeit_Lockergestein>
+      <Maechtigkeit_Lockergestein ili:tid="c6cbcf47-677d-4fa6-ab18-433c24b478e2"><Name>mittel</Name><Code>mittel</Code><SortierNr>4</SortierNr><Bemerkung></Bemerkung></Maechtigkeit_Lockergestein>
+      <Maechtigkeit_Lockergestein ili:tid="8fccfd05-00d7-40cd-a068-a1ff746979da"><Name>mittel (5-9 m)</Name><Code>mittel_5_bis_10</Code><SortierNr>5</SortierNr><Bemerkung></Bemerkung></Maechtigkeit_Lockergestein>
+      <Maechtigkeit_Lockergestein ili:tid="9f0924d8-30d9-4232-b6ac-1661dfd500ce"><Name>gross</Name><Code>gross</Code><SortierNr>6</SortierNr><Bemerkung></Bemerkung></Maechtigkeit_Lockergestein>
+      <Maechtigkeit_Lockergestein ili:tid="03910a08-24b4-4147-bf5e-c39edc11bd5b"><Name>sehr gross</Name><Code>sehr_gross</Code><SortierNr>7</SortierNr><Bemerkung></Bemerkung></Maechtigkeit_Lockergestein>
+      <Maechtigkeit_Lockergestein ili:tid="ab5117b4-39bf-4b53-ad1c-7b8b5a5ea050"><Name>unbestimmt</Name><Code>unbestimmt</Code><SortierNr>9</SortierNr><Bemerkung></Bemerkung></Maechtigkeit_Lockergestein>
+      <Typ ili:tid="13473cb5-5f6b-45fc-a37d-f6329a2248b6"><Name>Karst (stark heterogen)</Name><Code>Karst_stark_heterogen</Code><SortierNr>11</SortierNr><Bemerkung></Bemerkung></Typ>
+      <Typ ili:tid="3321b5f2-c5df-40ba-a9e2-8e9ec26d0b81"><Name>Karst (schwach heterogen)</Name><Code>Karst_schwach_heterogen</Code><SortierNr>12</SortierNr><Bemerkung></Bemerkung></Typ>
+      <Typ ili:tid="c75fd1dd-dfa5-4855-884f-dbff23f6c2fa"><Name>Karst (unbestimmt)</Name><Code>Karst_unbestimmt</Code><SortierNr>19</SortierNr><Bemerkung></Bemerkung></Typ>
+      <Typ ili:tid="73fae1bf-c02c-4fef-a6e4-d7ce6ba22c91"><Name>Kluft (stark heterogen)</Name><Code>Kluft_stark_heterogen</Code><SortierNr>21</SortierNr><Bemerkung></Bemerkung></Typ>
+      <Typ ili:tid="dc4d44a7-b86d-4838-a821-f4d462166b0d"><Name>Kluft (schwach heterogen)</Name><Code>Kluft_schwach_heterogen</Code><SortierNr>23</SortierNr><Bemerkung></Bemerkung></Typ>
+      <Typ ili:tid="a94c42ba-19e6-4f9b-84a4-b284b29f141b"><Name>Kluft (unbestimmt)</Name><Code>Kluft_unbestimmt</Code><SortierNr>29</SortierNr><Bemerkung></Bemerkung></Typ>
+      <Ueberlagerung ili:tid="76ff4b15-b047-4cd6-9049-fb8e81bd7680"><Name>einstöckig</Name><Code>einstoeckig</Code><SortierNr>1</SortierNr><Bemerkung>nicht Teil des MGDMs; muss bei Datenübergabe zu 'primaeres_erstes' zugeordnet werden</Bemerkung></Ueberlagerung>
+      <Ueberlagerung ili:tid="a778cff9-a38f-4c39-82bb-7c7a19b447a5"><Name>weitere oberhalb</Name><Code>weitere_oberhalb</Code><SortierNr>2</SortierNr><Bemerkung></Bemerkung></Ueberlagerung>
+      <Ueberlagerung ili:tid="d9dcba12-3a28-4d84-9126-62452dbad49f"><Name>primäres erstes</Name><Code>primaeres_erstes</Code><SortierNr>3</SortierNr><Bemerkung></Bemerkung></Ueberlagerung>
+      <Ueberlagerung ili:tid="9d140f29-2ed2-4c55-85f7-515be26c8e5f"><Name>zweites</Name><Code>zweites</Code><SortierNr>4</SortierNr><Bemerkung></Bemerkung></Ueberlagerung>
+      <Ueberlagerung ili:tid="a48622dd-dbdc-4cd7-a81f-c10a6c7ed789"><Name>drittes</Name><Code>drittes</Code><SortierNr>5</SortierNr><Bemerkung></Bemerkung></Ueberlagerung>
+      <Ueberlagerung ili:tid="ac568459-7af7-40d3-9e0a-1511e369a988"><Name>weitere unterhalb</Name><Code>weitere_unterhalb</Code><SortierNr>6</SortierNr><Bemerkung></Bemerkung></Ueberlagerung>
+      <Ueberlagerung ili:tid="c0344d1a-33b2-4662-81df-4c88116fca30"><Name>unbestimmt</Name><Code>unbestimmt</Code><SortierNr>9</SortierNr><Bemerkung></Bemerkung></Ueberlagerung>
+    </Stammdaten>
+  </ili:datasection>
+</ili:transfer>
