@@ -333,7 +333,7 @@ m| rErfassung
 | Fremdschlüssel zur Klasse `+Erfassung+` (Stammdaten)
 | e0807260-956b-40a2-871a-e32c51ebf192
 | öffentlich
-m| rMaechtigkeit_Festgestein
+m| rMaechtigkeit
 | Fremdschlüssel zur Klasse `+Maechtigkeit_Festgestein+` (Stammdaten)
 | e0807260-956b-40a2-871a-e32c51ebf192
 | öffentlich
