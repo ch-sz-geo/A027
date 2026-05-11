@@ -1,18 +1,18 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ili:transfer
-  xmlns="http://www.interlis.ch/xtf/2.4/SZ_Grundwasservorkommen_V1"
+  xmlns="http://www.interlis.ch/xtf/2.4/SZ_Grundwasservorkommen_V1_1"
   xmlns:ili="http://www.interlis.ch/xtf/2.4/INTERLIS"
   xmlns:geom="http://www.interlis.ch/geometry/1.0"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:Units="http://www.interlis.ch/xtf/2.4/Units">
   <ili:headersection>
     <ili:models>
-      <ili:model>SZ_Grundwasservorkommen_V1</ili:model>
+      <ili:model>SZ_Grundwasservorkommen_V1_1</ili:model>
     </ili:models>
     <ili:sender>AGI SZ</ili:sender>
   </ili:headersection>
   <ili:datasection>
-    <Stammdaten ili:bid="ch.sz.a027.stammdaten.2000-01-01">
+    <Stammdaten ili:bid="ch.sz.a027.stammdaten.2026-04-16">
       <Druckniveau ili:tid="1c629673-9aed-4c32-9277-d382d7dc3d8b"><Name>frei</Name><Code>frei</Code><SortierNr>1</SortierNr><Bemerkung></Bemerkung></Druckniveau>
       <Druckniveau ili:tid="1c24f0d5-27f9-463f-902c-b700213dbb64"><Name>gespannt</Name><Code>gespannt</Code><SortierNr>2</SortierNr><Bemerkung></Bemerkung></Druckniveau>
       <Druckniveau ili:tid="0ee06555-d03f-4b94-98f1-b01c21a22921"><Name>artesisch</Name><Code>artesisch</Code><SortierNr>3</SortierNr><Bemerkung></Bemerkung></Druckniveau>
@@ -33,6 +33,7 @@
       <Ergiebigkeit ili:tid="fdf4a307-9bab-4aab-bccf-246ed1a11b92"><Name>unbestimmt</Name><Code>unbestimmt</Code><SortierNr>9</SortierNr><Bemerkung></Bemerkung></Ergiebigkeit>
       <Flaechentyp ili:tid="92fdccb5-1db6-426f-ba8f-185a61b8d42e"><Name>Gebiet geringer Durchlässigkeit</Name><Code>Gebiet_geringer_Durchlaessigkeit</Code><SortierNr>10</SortierNr><Bemerkung></Bemerkung></Flaechentyp>
       <Flaechentyp ili:tid="136da256-b791-4fb7-8872-144eb55d22f6"><Name>gering durchlässige Deckschicht</Name><Code>Deckschicht_gering_durchlaessig</Code><SortierNr>20</SortierNr><Bemerkung></Bemerkung></Flaechentyp>
+      <Flaechentyp ili:tid="393b5a55-30f8-4289-9808-b10b81b63623"><Name>Bereich mit reduzierenden Grundwasserverhältnissen</Name><Code>Bereich_mit_reduzierenden_Grundwasserverhaeltnissen</Code><SortierNr>30</SortierNr><Bemerkung></Bemerkung></Flaechentyp>
       <Gewissheitsgrad ili:tid="812093b6-a958-478f-b72e-c54b72713db9"><Name>nachgewiesen</Name><Code>nachgewiesen_bekannt</Code><SortierNr>1</SortierNr><Bemerkung></Bemerkung></Gewissheitsgrad>
       <Gewissheitsgrad ili:tid="34a69cf8-8ea8-4be2-957e-5e544c9f32cc"><Name>vermutet</Name><Code>vermutet</Code><SortierNr>2</SortierNr><Bemerkung></Bemerkung></Gewissheitsgrad>
       <Gewissheitsgrad ili:tid="1be26ca0-8659-4aed-a83c-8f8772ac5e05"><Name>unbestimmt</Name><Code>unbestimmt</Code><SortierNr>3</SortierNr><Bemerkung></Bemerkung></Gewissheitsgrad>
