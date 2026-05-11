@@ -1,4 +1,4 @@
-= Dateibeschreibung [todo: Links nach Veröffentlichung anpassen]
+= Dateibeschreibung
 
 Bei der Bewirtschaftung eines Themas gibt es Attribute, deren Werte nicht frei erfasst, sondern aus einem vorgegebenen Katalog selektiert werden müssen (z.B. Gemeindenamen aus dem Katalog der Schwyzer Gemeinden). Die Gesamtheit der Kataloge eines Themas wird als Stammdaten bezeichnet. Sie werden in einer eigenen Datei gehalten (`+Stammdaten.xtf+`) und bilden eine Voraussetzung für die Datenerfassung.
 
@@ -12,15 +12,15 @@ Bei der Bewirtschaftung eines Themas gibt es Attribute, deren Werte nicht frei e
 (2025-12-09)
 | 2026-04-16
 | Diese Datei enthält die aktuell gültigen Stammdaten für die Datenerfassung.
-| https://raw.githubusercontent.com/ch-sz-geo/A027/7d038975228cc1dadba83475fcdebe8459195881/data/Stammdaten.xtf[*Datei*]
+| https://raw.githubusercontent.com/ch-sz-geo/A027/ac310a18514d9b8b7e71b162903b47e483c847d6/data/Stammdaten.xtf[*Datei*]
 | SZ_Grundwasservorkommen_V1 +
 (2025-12-09)
 | 2026-04-14
 | Diese Datei enthält die Stammdaten der Modellversion V1. Sie wurde aus der internen Dateiablage hochgeladen, damit die Historie über GitHub vorhanden ist.
-| https://raw.githubusercontent.com/ch-sz-geo/A027/c76e0d5f58182e4473d1c72f48dc913b7ff4e5cd/data/Stammdaten.xtf[*Datei*]
+| https://raw.githubusercontent.com/ch-sz-geo/A027/eef8ab4b8bc7d087fdecf459803a683b3a78815f/data/Stammdaten.xtf[*Datei*]
 | SZ_Grundwasservorkommen_V1 +
 (2025-12-09)
 | 2025-12-12
 | Diese Datei enthält die Stammdaten der Modellversion V1. Sie wurde aus der internen Dateiablage hochgeladen, damit die Historie über GitHub vorhanden ist.
-| https://raw.githubusercontent.com/ch-sz-geo/A027/c76e0d5f58182e4473d1c72f48dc913b7ff4e5cd/data/Stammdaten.xtf[*Datei*]
+| https://raw.githubusercontent.com/ch-sz-geo/A027/109671798b4f1febe600b87fade6dbcb98a02cc5/data/Stammdaten.xtf[*Datei*]
 |===
