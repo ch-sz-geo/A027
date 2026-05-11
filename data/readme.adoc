@@ -1,4 +1,4 @@
-= Dateibeschreibung
+= Dateibeschreibung [todo: Links nach Veröffentlichung anpassen]
 
 Bei der Bewirtschaftung eines Themas gibt es Attribute, deren Werte nicht frei erfasst, sondern aus einem vorgegebenen Katalog selektiert werden müssen (z.B. Gemeindenamen aus dem Katalog der Schwyzer Gemeinden). Die Gesamtheit der Kataloge eines Themas wird als Stammdaten bezeichnet. Sie werden in einer eigenen Datei gehalten (`+Stammdaten.xtf+`) und bilden eine Voraussetzung für die Datenerfassung.
 
