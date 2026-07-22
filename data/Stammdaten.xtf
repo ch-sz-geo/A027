@@ -52,8 +52,8 @@
       <Maechtigkeit_Festgestein ili:tid="0892033b-3d39-4bdf-a767-2e78ca76b3e6"><Name>unbestimmt</Name><Code>unbestimmt</Code><SortierNr>9</SortierNr><Bemerkung></Bemerkung></Maechtigkeit_Festgestein>
       <Maechtigkeit_Lockergestein ili:tid="98907140-a15a-4528-b8f6-8dbbd9572355"><Name>gering (bis 2 m)</Name><Code>gering</Code><SortierNr>1</SortierNr><Bemerkung></Bemerkung></Maechtigkeit_Lockergestein>
       <Maechtigkeit_Lockergestein ili:tid="c6cbcf47-677d-4fa6-ab18-433c24b478e2"><Name>mittel (zwischen 2 und 10 m)</Name><Code>mittel</Code><SortierNr>4</SortierNr><Bemerkung></Bemerkung></Maechtigkeit_Lockergestein>
-      <Maechtigkeit_Lockergestein ili:tid="9f0924d8-30d9-4232-b6ac-1661dfd500ce"><Name>gross</Name><Code>gross</Code><SortierNr>6</SortierNr><Bemerkung></Bemerkung></Maechtigkeit_Lockergestein>
-      <Maechtigkeit_Lockergestein ili:tid="03910a08-24b4-4147-bf5e-c39edc11bd5b"><Name>sehr gross</Name><Code>sehr_gross</Code><SortierNr>7</SortierNr><Bemerkung></Bemerkung></Maechtigkeit_Lockergestein>
+      <Maechtigkeit_Lockergestein ili:tid="9f0924d8-30d9-4232-b6ac-1661dfd500ce"><Name>gross (zwischen 10 und 20 m)</Name><Code>gross</Code><SortierNr>6</SortierNr><Bemerkung></Bemerkung></Maechtigkeit_Lockergestein>
+      <Maechtigkeit_Lockergestein ili:tid="03910a08-24b4-4147-bf5e-c39edc11bd5b"><Name>sehr gross (grösser 20 m)</Name><Code>sehr_gross</Code><SortierNr>7</SortierNr><Bemerkung></Bemerkung></Maechtigkeit_Lockergestein>
       <Maechtigkeit_Lockergestein ili:tid="ab5117b4-39bf-4b53-ad1c-7b8b5a5ea050"><Name>unbestimmt</Name><Code>unbestimmt</Code><SortierNr>9</SortierNr><Bemerkung></Bemerkung></Maechtigkeit_Lockergestein>
       <Typ ili:tid="13473cb5-5f6b-45fc-a37d-f6329a2248b6"><Name>Karst (stark heterogen)</Name><Code>Karst_stark_heterogen</Code><SortierNr>11</SortierNr><Bemerkung></Bemerkung></Typ>
       <Typ ili:tid="3321b5f2-c5df-40ba-a9e2-8e9ec26d0b81"><Name>Karst (schwach heterogen)</Name><Code>Karst_schwach_heterogen</Code><SortierNr>12</SortierNr><Bemerkung></Bemerkung></Typ>
