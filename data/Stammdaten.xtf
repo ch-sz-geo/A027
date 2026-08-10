@@ -12,7 +12,7 @@
     <ili:sender>AGI SZ</ili:sender>
   </ili:headersection>
   <ili:datasection>
-    <Stammdaten ili:bid="ch.sz.a027.stammdaten.2026-04-16">
+    <Stammdaten ili:bid="ch.sz.a027.stammdaten.2026-08-10">
       <Druckniveau ili:tid="1c629673-9aed-4c32-9277-d382d7dc3d8b"><Name>frei</Name><Code>frei</Code><SortierNr>1</SortierNr><Bemerkung></Bemerkung></Druckniveau>
       <Druckniveau ili:tid="1c24f0d5-27f9-463f-902c-b700213dbb64"><Name>gespannt</Name><Code>gespannt</Code><SortierNr>2</SortierNr><Bemerkung></Bemerkung></Druckniveau>
       <Druckniveau ili:tid="0ee06555-d03f-4b94-98f1-b01c21a22921"><Name>artesisch</Name><Code>artesisch</Code><SortierNr>3</SortierNr><Bemerkung></Bemerkung></Druckniveau>
