@@ -1,13 +1,13 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <ili:transfer
-  xmlns="http://www.interlis.ch/xtf/2.4/SZ_Grundwasservorkommen_V1_1"
+  xmlns="http://www.interlis.ch/xtf/2.4/SZ_Grundwasservorkommen_V1_2"
   xmlns:ili="http://www.interlis.ch/xtf/2.4/INTERLIS"
   xmlns:geom="http://www.interlis.ch/geometry/1.0"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:Units="http://www.interlis.ch/xtf/2.4/Units">
   <ili:headersection>
     <ili:models>
-      <ili:model>SZ_Grundwasservorkommen_V1_1</ili:model>
+      <ili:model>SZ_Grundwasservorkommen_V1_2</ili:model>
     </ili:models>
     <ili:sender>AGI SZ</ili:sender>
   </ili:headersection>
@@ -50,10 +50,13 @@
       <Maechtigkeit_Festgestein ili:tid="96661be7-5467-49e4-87fa-f875d97dc78f"><Name>mittel</Name><Code>mittel</Code><SortierNr>2</SortierNr><Bemerkung></Bemerkung></Maechtigkeit_Festgestein>
       <Maechtigkeit_Festgestein ili:tid="2ac6bb0b-4869-4cae-b89a-774e81777470"><Name>gross</Name><Code>gross</Code><SortierNr>3</SortierNr><Bemerkung></Bemerkung></Maechtigkeit_Festgestein>
       <Maechtigkeit_Festgestein ili:tid="0892033b-3d39-4bdf-a767-2e78ca76b3e6"><Name>unbestimmt</Name><Code>unbestimmt</Code><SortierNr>9</SortierNr><Bemerkung></Bemerkung></Maechtigkeit_Festgestein>
-      <Maechtigkeit_Lockergestein ili:tid="98907140-a15a-4528-b8f6-8dbbd9572355"><Name>gering (bis 2 m)</Name><Code>gering</Code><SortierNr>1</SortierNr><Bemerkung></Bemerkung></Maechtigkeit_Lockergestein>
-      <Maechtigkeit_Lockergestein ili:tid="c6cbcf47-677d-4fa6-ab18-433c24b478e2"><Name>mittel (zwischen 2 und 10 m)</Name><Code>mittel</Code><SortierNr>4</SortierNr><Bemerkung></Bemerkung></Maechtigkeit_Lockergestein>
-      <Maechtigkeit_Lockergestein ili:tid="9f0924d8-30d9-4232-b6ac-1661dfd500ce"><Name>gross (zwischen 10 und 20 m)</Name><Code>gross</Code><SortierNr>6</SortierNr><Bemerkung></Bemerkung></Maechtigkeit_Lockergestein>
-      <Maechtigkeit_Lockergestein ili:tid="03910a08-24b4-4147-bf5e-c39edc11bd5b"><Name>sehr gross (grösser 20 m)</Name><Code>sehr_gross</Code><SortierNr>7</SortierNr><Bemerkung></Bemerkung></Maechtigkeit_Lockergestein>
+      <Maechtigkeit_Lockergestein ili:tid="98907140-a15a-4528-b8f6-8dbbd9572355"><Name>gering</Name><Code>gering</Code><SortierNr>1</SortierNr><Bemerkung></Bemerkung></Maechtigkeit_Lockergestein>
+      <Maechtigkeit_Lockergestein ili:tid="f6be6a40-a598-4ae0-9803-271a66d17a99"><Name>gering (0-4 m)</Name><Code>gering_0_bis_5</Code><SortierNr>2</SortierNr><Bemerkung></Bemerkung></Maechtigkeit_Lockergestein>
+      <Maechtigkeit_Lockergestein ili:tid="519681f8-1943-415a-a790-cc689cca6d85"><Name>gering (2-4 m)</Name><Code>gering_2_bis_5</Code><SortierNr>3</SortierNr><Bemerkung></Bemerkung></Maechtigkeit_Lockergestein>
+      <Maechtigkeit_Lockergestein ili:tid="c6cbcf47-677d-4fa6-ab18-433c24b478e2"><Name>mittel</Name><Code>mittel</Code><SortierNr>4</SortierNr><Bemerkung></Bemerkung></Maechtigkeit_Lockergestein>
+      <Maechtigkeit_Lockergestein ili:tid="8fccfd05-00d7-40cd-a068-a1ff746979da"><Name>mittel (5-9 m)</Name><Code>mittel_5_bis_10</Code><SortierNr>5</SortierNr><Bemerkung></Bemerkung></Maechtigkeit_Lockergestein>
+      <Maechtigkeit_Lockergestein ili:tid="9f0924d8-30d9-4232-b6ac-1661dfd500ce"><Name>gross</Name><Code>gross</Code><SortierNr>6</SortierNr><Bemerkung></Bemerkung></Maechtigkeit_Lockergestein>
+      <Maechtigkeit_Lockergestein ili:tid="03910a08-24b4-4147-bf5e-c39edc11bd5b"><Name>sehr gross</Name><Code>sehr_gross</Code><SortierNr>7</SortierNr><Bemerkung></Bemerkung></Maechtigkeit_Lockergestein>
       <Maechtigkeit_Lockergestein ili:tid="ab5117b4-39bf-4b53-ad1c-7b8b5a5ea050"><Name>unbestimmt</Name><Code>unbestimmt</Code><SortierNr>9</SortierNr><Bemerkung></Bemerkung></Maechtigkeit_Lockergestein>
       <Typ ili:tid="13473cb5-5f6b-45fc-a37d-f6329a2248b6"><Name>Karst (stark heterogen)</Name><Code>Karst_stark_heterogen</Code><SortierNr>11</SortierNr><Bemerkung></Bemerkung></Typ>
       <Typ ili:tid="3321b5f2-c5df-40ba-a9e2-8e9ec26d0b81"><Name>Karst (schwach heterogen)</Name><Code>Karst_schwach_heterogen</Code><SortierNr>12</SortierNr><Bemerkung></Bemerkung></Typ>
